@@ -1,0 +1,715 @@
+GIZ Gender Strategy
+Gender reloaded:
+Vision needs Attitude –
+Attitude meets Action
+GIZ Gender Strategy | 
+2
+As a federally owned enterprise, GIZ supports the German Government
+in achieving its objectives in the field of international cooperation for
+sustainable development.
+Published by:
+Deutsche Gesellschaft für
+Internationale Zusammenarbeit (GIZ) GmbH
+Registered offices
+Bonn and Eschborn, Germany
+Friedrich-Ebert-Allee 36 + 40	
+Dag-Hammarskjöld-Weg 1 - 5
+53113 Bonn, Germany	
+65760 Eschborn, Germany
+T +49 228 44 60-0	
+T +49 6196 79-0
+F +49 228 4460-17 66	
+F +49 6196 79-11 15
+E	info@giz.de
+I	 www.giz.de
+Responsible:  
+Dr. Dirk Aßmann, GIZ Gender Ambassador and Director-General, Sectoral Department
+Author/Editor:  
+Dr. Angela Langenkamp, GIZ Gender Commissioner
+Design/Layout: 
+Ira Olaleye, Eschborn
+GIZ is responsible for the content of this publication.
+Printing and distribution:
+Name, Ort
+Printed on 100% recycled paper, certified to FSC standards.
+Eschborn, January 2019
+3
+Foreword
+Dear colleagues,  
+commissioning parties and clients,  
+partners in Germany and in the field,
+‘Gender reloaded: Vision needs Attitude – Attitude meets Action’ is the motto behind GIZ’s 
+new Gender Strategy. With it we want to tackle and address current challenges in fostering 
+equality of opportunity and rights for all individuals, regardless of their gender, sexual orien-
+tation or gender identity. It is about fostering human dignity for all.
+In May 2016, the GIZ management commissioned a revision of the 2012 Gender Strategy. This 
+work was to be based on the findings and recommendations of the corporate strategic eval-
+uation of the 2012 Gender Strategy and its implementation, and on the growing relevance 
+of gender equality and women’s rights in both the national and the international context, as 
+demonstrated by the 2030 Agenda for Sustainable Development and the new European Con-
+sensus on Development. They clearly highlight gender equality as a goal in its own right, a 
+value, a principle for action and a central objective across sectors and areas of action. In the 
+European Consensus on Development it reads ‘Gender equality is at the core of the EU values 
+and is enshrined in its legal and political framework. It is vital for achieving the SDGs and 
+cuts across the whole 2030 Agenda. The EU and its Member States will promote women’s 
+and girls’ rights, gender equality and the empowerment of women and girls and their protec-
+tion as a priority across all areas of action.’
+Gender equality is an objective to which we are committed both as a company and as in-
+dividuals working to shape a future worth living around the world. The GIZ Gender Strategy 
+embodies the company’s clear position on this, both internally and with regard to the wider 
+world. The Gender Strategy is an integral part of our corporate and strategic direction and is 
+therefore binding for all members of staff.
+‘Vision needs Attitude – Attitude meets Action’ – this is where you have a part to play. Only 
+by working together and contributing each individual’s potential and ideas, experience and 
+commitment can we combat gender-specific disadvantages and discrimination and make 
+gender equality around the world a true-life reality as part of a dignified future.
+We are prepared and ready – and we look forward to working with you.
+Dr. Christoph Beier	
+Dr. Dirk Aßmann  
+Managing Director	
+Director-General, Sectoral Department
+4
+GIZ Gender Strategy | 
+Table of contents
+Foreword .
+................................................................................................................................................................................................................................................................................................................................... 3
+I.	 Introduction .
+......................................................................................................................................................................................................................................................................................................... 5
+Gender equality as a benchmark and quality feature at GIZ .
+.......................................................................................................... 5
+II.	 Gender strategy: vision, objectives, strategic elements,  
+	
+addressees and scope of application .
+..................................................................................................................................................................................................... 7
+a.	Objectives .
+....................................................................................................................................................................................................................................................................................................... 7
+b.	Strategic elements .
+................................................................................................................................................................................................................................................................... 8
+c.	Addressees and scope of application ............................................................................................................................................................................................ 8
+III.	 Implementation .
+........................................................................................................................................................................................................................................................................................... 9
+a.	Organisation .
+.............................................................................................................................................................................................................................................................................................. 9
+b.	Resources .
+....................................................................................................................................................................................................................................................................................................... 9
+c.	Monitoring .
+................................................................................................................................................................................................................................................................................................. 10
+Annex .
+........................................................................................................................................................................................................................................................................................................................................... 11
+I	 GIZ’s Gender Architecture .
+..................................................................................................................................................................................................................................... 11
+II	ToR for the GIZ Gender Commissioner 
+	 Role: Coordinator and GIZ spokesperson for gender .
+........................................................................................................................ 14
+III ToR of the gender focal points in the departments and corporate units 
+	 Role: To coordinate implementation of the gender strategy within the  
+	 organisational units and to act as representatives of these organisational units .
+..... 15
+IV	
+Glossary .
+........................................................................................................................................................................................................................................................................................................ 16
+5
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+I.		 Introduction
+Gender equality as a benchmark  
+and quality feature at GIZ 
+Gender equality is one of the key values of our company and of the work we do. It 
+is a prerequisite for and driver of sustainable development and a viable future of 
+our society, both at national and international level. At GIZ, we take a gender-sen-
+sitive and wherever needed a gender-differentiated approach and consistent ac-
+tion to eliminate existing gender-based discrimination and to foster equal rights 
+and opportunities for everyone, regardless of their gender, sexual orientation and 
+gender identity. This and our targeted promotion of gender equality are quality fea-
+tures of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. 
+Gender equality is a human right whose realisation is neither a given nor some-
+thing that happens and will be realised all on its own. It entails a conscious ap-
+proach to the transformation of gender relations and, above all, it calls for active 
+engagement on the part of us all. Gender equality is enshrined in Article 3 of the 
+Basic Law of the Federal Republic of Germany, to which we feel deeply committed. 
+(1) All persons shall be equal before the law. 
+(2) Men and women have equal rights. The state promotes the actual 
+implementation of equal rights for women and men and take steps to 
+eliminate disadvantages that now exist.
+(3) No person shall be favoured or disadvantaged because of sex, 
+parentage, ethnicity, language, homeland and origin, faith, or religious 
+or political opinions. No person shall be disfavoured because of 
+disability.
+Gender equality and the elimination of gender-based discrimination and disadvan-
+tages is a core objective and guiding principle of international, European and Ger-
+man (development) policies. By aligning our work, strategies and processes with 
+these objective and principles, and advising and working with our partners and 
+commissioning parties on how to design and implement measures to realise gen-
+der equality, we are contributing to a number of national and international agree-
+ments, in particular the 2030 Agenda, the European Consensus on Development 
+and the German Sustainable Development Strategy.
+6
+GIZ Gender Strategy | 
+The promotion of gender equality and the elimination of gender-based disadvan-
+tages and discrimination are two strategic pillars of our corporate-policy orienta-
+tion, which is reflected in our services and in our equal opportunity policy with-
+in the company. The GIZ Gender Strategy embodies those two pillars and actively 
+communicates them inside and outside the company. By turning the Gender Poli-
+cy into action and documenting its implementation we intend to further enhance 
+and consolidate the perception of GIZ as a value-based and responsible company, 
+a reliable partner and an attractive employer. We consider the implementation of 
+the GIZ Internal Plan for Equal Opportunities and the Women’s Empowerment Prin-
+ciples on the one hand, and the consistent application of the Safeguards+Gender 
+Management System to new and follow-on projects on the other, as a key founda-
+tion for our corporate sustainability, our credibility and our ability to deliver re-
+sults, both in Germany and in our partner countries.
+The Safeguards+Gender Management System is applied for all of GIZ’s commis-
+sioning parties, clients and business areas. It assesses commissions, pro-
+jects and programmes in their specific context, identifies opportunities to 
+promote gender equality and also potential risks and unintended negative 
+impacts at an early stage, draws up specific measures – in the case of 
+risks and unintended negative impacts known as ‘safeguards’ – and follows 
+them up in the project cycle. 
+Equal opportunity within the company is both a declaration of what we 
+believe in and a human resources policy directive. We work with oth-
+er people without any distinction in terms of gender, marital status, skin 
+colour, religion or world view, culture, education, ethnicity, disability, 
+age, sexual orientation, gender identity or nationality. 
+We do not tolerate sexual harassment inside GIZ or through employees and mem-
+bers of our workforce.
+GIZ’s Gender Strategy, with its comprehensive understanding of gender, contributes 
+to our diversity management within the company.
+SAFEGUARDS
++ GENDER
+7
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+II.		 Gender strategy: vision, objectives,  
+strategic elements, addressees and scope 
+of application
+GIZ’s Gender Strategy provides us with a binding framework for the entire compa-
+ny. It nevertheless provides the needed flexibility to design and implement meas-
+ures in line with the specific mandates and tasks of every organisational unit and 
+position within the company. The gender strategy is based on GIZ’s vision, corpo-
+rate values and guiding principles.
+Our vision: We work to shape a future worth living around the world.
+The objectives and design of specific contributions to the strategy’s implementa-
+tion are guided both by the policy requirements of the German Government and by 
+GIZ’s Corporate Strategy.
+a.	 Objectives
+Effectiveness  We enhance the effectiveness and sustainability of our service de-
+livery by taking action consistently to eliminate existing gender-based 
+discrimination and to achieve equal rights and opportunities for every-
+one, regardless of their gender, sexual orientation and gender identity, 
+both within the company and in connection with our commissions. 
+Business development  We convince our commissioning parties and clients through 
+our proven gender competence. We secure our share of markets by 
+making effective contributions to the gender equality objectives of inter-
+national, European and German agreements, such as the 2030 Agenda, 
+in line with our clients’ needs. We advise our commissioning parties and 
+clients on how to increase the number and quality of measures that fo-
+cus on gender equality or that enshrine gender equality as a clearly de-
+fined area of action in their objectives.
+Skills and alliances  We continuously expand our sector-specific and cross- 
+sectoral gender competence. Through our measures to promote equal 
+opportunities within the company, we secure the future of our compa-
+ny and harness the potentials and opportunities of gender-diverse teams 
+for creative and high-quality performance and service delivery.
+Economic efficiency  We meet the gender-related requirements of our commission-
+ing parties and clients by applying our gender knowledge and compe-
+tence efficiently and by standardising existing approaches and processes 
+to the greatest extent possible.
+8
+GIZ Gender Strategy | 
+b.	 Strategic elements
+The five complementary strategic elements are of key importance for achieving 
+GIZ’s Vision and objectives of the GIZ Gender Strategy. They serve as yardsticks of 
+our performance:
+1
+Political will and  
+accountability
+
+Clear positioning of the company and of the man-
+ner in which managers commit to realising gen-
+der equality and promote and follow up on the 
+implementation of the gender strategy in their 
+area of responsibility.
+2
+Corporate culture
+
+Make the patterns of behaviour, codes of conduct 
+and processes that promote and enhance gender 
+equality within the company visible and represent 
+them inside and outside of GIZ.
+3
+Gender competence
+
+Skills and gender knowledge of the workforce 
+to apply and use the relevant instruments and 
+approaches for actively contributing to gender 
+equality and the elimination of gender-based dis-
+advantages and discrimination. 
+4
+Process adjustment
+
+Gender-sensitive and gender-differentiated design 
+of all procedures and instruments at Head Office 
+and in the field structure, especially HR manage-
+ment, commission and quality management as 
+well as results and impact monitoring.
+5
+Equal opportunities 
+within the company
+
+Promotion of potentials, equal rights and oppor-
+tunities for all employees and members of the 
+workforce, irrespective of their gender, sexual 
+orientation and gender identity. Creation of a bal-
+anced gender ratio for the different job catego-
+ries and assignments within the company. 
+c.	 Addressees and scope of application
+GIZ’s Gender Strategy is the guiding framework for all managers, employees and 
+other members of GIZ’s workforce. It therefore applies to all Head Office and field 
+staff, national personnel, development workers and integrated experts. They stand 
+up for gender equality and in doing so help to bring this strategy to life and trans-
+late it into specific actions. Managers act as role models in this context. The 
+strategy also serves as a basic source of reference and guidance for our com-
+missioning parties and partners and as a set of binding instructions for our sub-
+contractors.
+9
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+III.		 Implementation
+a.	 Organisation
+The strategic framework of the gender strategy is binding for all organisational 
+units and everyone who works for GIZ. Taking five strategic elements as the start-
+ing point, the strategy is implemented at decentralised level in a manner suited to 
+the mandates, fields and forms of work of the individual organisational units. Part 
+2 of GIZ’s Gender Strategy (for internal use only) provides clear guidelines for its 
+operationalisation. 
+In order to achieve the objectives of the gender strategy, the individual organisa-
+tional units, including the HR Department for equal opportunity within the com-
+pany, define, adopt and document their own specific action documents, measures 
+and, where necessary or appropriate, key figures/indicators. They are supported in 
+this by the gender focal points they appoint. The action documents, measures and 
+key figures/indicators are used for steering and annual reporting. For transparen-
+cy and accountability within GIZ they are available on the GIZ Intranet, in the Doc-
+ument Management System (DMS) and/or on the Integrated Digital Applications 
+(IDA).
+Managers at all levels are responsible for the implementation of this policy. Key 
+bodies and office holders are named and briefly described in the gender architec-
+ture (see Annex I). The special roles of the GIZ Gender Commissioner and the gen-
+der focal points at departmental and corporate unit level are shown in Annex II 
+and III. 
+b.	 Resources
+GIZ’s company management provides an annual budget to facilitate company-wide 
+measures to implement the gender strategy. This applies to costs, for instance, of 
+the Gender Competition, the implementation of the Gender Week and company-wide 
+GIZ gender network meetings, the digital gender platform and all costs of the GIZ 
+Gender Commissioner (the coordinator and GIZ spokesperson for gender).
+To ensure the successful implementation of the Gender Strategy at all levels, man-
+agers secure the required human resources, time and financial resources in their re-
+spective organisational units. They also support the gender focal points in perform-
+ing their duties and promote their capacity development so that they can discharge 
+their responsibilities in a professional manner.
+The Human Resources Department plans, establishes and provides the resources 
+for equal opportunity measures within the company and for the gender focal point 
+in the Human Resources Department. The Equal Opportunity Commissioners are re-
+leased from their other duties.
+10
+GIZ Gender Strategy | 
+c.	 Monitoring
+In line with GIZ’s internal Guidelines for Operationalisation (part 2) and the specif-
+ic action documents, measures and key figures/indicators, managers in the depart-
+ments and corporate units are responsible for implementing, monitoring and re-
+porting on the current implementation status of the gender strategy in their area 
+of responsibility. The implementation of GIZ’s Gender Strategy is reflected in the 
+corporate annual objectives. The GIZ Gender Commissioner examines the imple-
+mentation status of the Gender Strategy and is responsible for the budget provi-
+sions by corporate management. In cooperation with the gender focal points of the 
+individual organisational units the Gender Commissioner collates a consolidated 
+company-wide implementation report (including recommendations) and submits it 
+to GIZ’s Management Committee and Strategy Committee on an annual basis. The 
+key results are incorporated into the Integrated Company Report and into other re-
+ports and declarations (e.g. UN Global Compact, German Sustainability Code).
+The annual reports from the organisational units are complemented by the results 
+of an online survey among the gender focal points.
+Monitoring and any recommendations for action on equal opportunities within the 
+company fall under the responsibility of the Human Resources Department. The GIZ 
+Internal Plan for Equal Opportunities is reviewed every two years. The Equal Op-
+portunity commissioners continuously monitor compliance with the relevant le-
+gal and HR policy requirements, which are set out in employer/staff council agree-
+ments, for example, and call on the Human Resources Department or the Managing 
+Director responsible for the Human Resources Department to ensure they are put 
+into practice. The Management Board reports to the Supervisory Board once a year 
+on the status of equal opportunities and gender equality within GIZ. The key results 
+are incorporated into the report on the implementation of the GIZ Gender Strategy.
+11
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+Annex
+I	
+GIZ’s Gender Architecture
+Management Board
+•	 Puts the gender strategy into effect and sets the corporate-policy orientation 
+for its implementation; the Managing Director responsible for the Human Re-
+sources Department is responsible for equal opportunity policies within the 
+company
+•	 Appoints a Gender Ambassador among the members of the Strategy 
+Committee
+Strategy Committee
+•	 Advises the Management Board on fundamental corporate-policy issues with 
+regard to gender equality 
+•	 Annual debate concerning gender 
+Management Committee
+•	 Steers and ensures the implementation of the Management Board’s corporate-
+policy instructions on gender in operational business
+•	 Advises and makes decisions on topic related and procedural issues 
+Gender Ambassador
+•	 Actively promotes GIZ’s Gender Strategy and gender equality as such and acts 
+as an interface between specialist and executive management levels
+•	 Acts as line manager for the GIZ Gender Commissioner and arranges for the 
+Strategy Committee’s annual debate on gender
+GIZ Gender Commissioner
+•	 Coordinator and GIZ spokesperson for gender 
+•	 See Annex II for detailed ToR
+Human Resources Department
+•	 Draws up strategies on equal opportunities and gender equality within the 
+company 
+•	 Plans and implements measures to promote equal opportunities and gender 
+equality within the company
+•	 Supports managers in implementing the GIZ Internal Plan for Equal Opportu-
+nities
+12
+GIZ Gender Strategy |
+Sectoral division – Gender
+•	 Ensures excellence in sectoral expertise on gender as well as the ability to 
+deliver sector-specific services
+•	 Takes responsibility for setting up and further developing specialised gender 
+know-how and sectoral/methodological knowledge management
+•	 Promotes the integration of gender into commission management and devel-
+ops interdisciplinary service packages in cooperation with other departments
+Safeguards+Gender Desk
+•	 The Safeguards+Gender Desk of the Internal Customer Services Division (PIC) 
+of the Sectoral Department provides advice on gender-related procedural 
+questions in connection with the Safeguards+Gender Management System
+•	 Checks the plausibility of preliminary (Safeguards+Gender checklist, possibly 
+gender scan, provisional gender analysis) and in-depth gender analysis
+Gender coordination group
+•	 Consists of the Gender Ambassador, the GIZ Gender Commissioner, the gen-
+der focal points of the departments and corporate units including the GIZ rep-
+resentative offices in Brussels and Berlin, the Equal Opportunity Commissioner 
+at company level, one representative of the responsible sectoral division and 
+the sector programme
+•	 Supports and monitors decentralised implementation of the gender strategy 
+within the organisational units 
+•	
+Compiles the results achieved in the different organisational units and 
+identifies joint areas of action on that basis
+•	
+Supports the GIZ Gender Commissioner in compiling the report on imple-
+menting the gender strategy and documents to be submitted to the Strat-
+egy Committee
+•	
+Appoints members for working groups established by the GIZ Gender 
+Commissioner
+Gender network
+•	 Consists of all Head Office and field structure gender focal points
+•	 Communicates the gender strategy inside the company
+•	 Encourages the discussion of innovative topics, issues and challenges that are 
+important from a corporate policy stance
+•	 Ensures a supra-regional and cross-sectoral exchange on digital networking 
+formats and at least one Gender Network Meeting each year 
+13
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+Thematic forum on gender
+•	 Consists of planning officers and gender focal points from the Sectoral De-
+partment (FMB) and the Sector and Global Programmes Department (GloBe)
+•	 Is coordinated by the two departmental gender focal points of FMB and GloBe
+•	 Draws up joint sectoral documents on specific themes 
+•	 Contributes to knowledge management on gender in commission management 
+processes and in sectors 
+•	 Organises joint events with internal and external discussion partners
+Gender focal points
+•	 The basis for effective work by the gender officers in the various organisation-
+al and work units is a set of custom-tailored ToRs that are adopted by the in-
+dividual management teams.
+•	 Gender focal points at departmental and corporate unit level actively support 
+the GIZ Gender Commissioner in performing his/her duties
+•	 In general, all gender officers:
+•	
+advise and support managers in implementing the gender strategy in their 
+organisational unit or work unit
+•	
+contribute to monitoring and annual reporting and to company-wide gen-
+der-specific initiatives and events
+•	
+participate in networks and in formats for sharing information and knowl-
+edge management.
+Equal Opportunity Commissioner
+•	 Promote and monitor the implementation of the GIZ employer/staff council 
+agreement on equal opportunities and compliance with the principles of the 
+German General Equal Treatment Act (AGG) with regard to protection against 
+gender-based discrimination and sexual harassment within the company.
+•	 The Equal Opportunity Commissioner at corporate level is the employer’s con-
+tact for all overarching issues related to equal opportunities and gender 
+equality within the company and measures that relate to or affect the compa-
+ny as a whole, a number of units within the company, or cross-departmental 
+workforce groups.
+14
+GIZ Gender Strategy |
+II	
+ToR for the GIZ Gender Commissioner 
+	
+Role: Coordinator and GIZ spokesperson for gender 
+(1) Implementation of the gender strategy throughout the company
+•	
+Coordinating the steps involved in implementing the strategy
+•	
+Elaborating the annual report on implementation of the strategy and coor-
+dinating company-wide monitoring
+•	
+Initiating and chairing specialised working groups; steering those work-
+ing groups or delegating this steering role in consultation with the gender 
+coordination group
+•	
+Coordinating the Gender Week and Gender Competitions
+•	
+Elaborating and coordinating the external image and communication of 
+the Gender Strategy 
+•	
+Systematising the progress on implementing the strategy achieved by the 
+various departments, corporate units and other organisational units within 
+the company and communicating this information to managerial level and 
+the gender networks
+(2) Sectoral advice
+•	
+Advisory services to the Gender Ambassador, the Management Committee 
+and the Strategy Committee 
+•	
+Delivering advisory services on gender mainstreaming throughout the 
+company
+•	
+Providing impetus for further conceptual development work and the con-
+sideration of gender in corporate-strategy documents and processes
+•	
+Positioning the issue of gender within GIZ by providing specialist inputs
+•	
+Ensuring a regular strategic exchange with the Equal Opportunity Com-
+missioner
+•	
+Supporting the gender focal points of the departments and corporate units 
+in networking inside and outside the company
+•	
+Underpinning knowledge management at company level in cooperation 
+with, and with the active support of the Sectoral Department (FMB), the 
+operational departments and the Client Liaison and Business Development 
+Department (AGE)
+(3) Administration
+•	
+Coordinating and supporting the gender coordination group 
+•	
+Coordinating and supporting the gender network
+•	
+Producing and following up on the annual plan
+•	
+Accepting responsibility for the pertinent budget 
+15
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+III 	
+ToR of the gender focal points in the departments  
+	
+and corporate units 
+	
+Role: To coordinate the implementation of the gender 
+ 
+	
+strategy within the organisational units and to act  
+	
+as representatives of these organisational units
+(1) Implementation of the gender strategy within the organisational units
+•	
+Facilitating and supporting the implementation of organisational unit-spe-
+cific action documents and measures, concepts and/or strategies
+•	
+Advising managerial groups on the implementation of the gender strategy
+•	
+Supporting managerial groups in reviewing implementation needs
+•	
+Coordinating and supporting the gender focal points of their respective 
+organisational units with a special focus on the field structure
+•	
+Supporting the organisation of the Gender Week and Gender Competitions 
+and other company-wide initiatives and events on the subject of gender
+(2) Sectoral advice
+•	
+Advising the members of organisational unit-specific gender networks 
+within Germany and abroad on mainstreaming the institutionalisation of 
+gender 
+•	
+Securing the flow of information between the field structure and Head Of-
+fice and among the various Head Office organisational units
+•	
+Facilitating identification and placing of gender focal points or experts 
+and communicating specialist expertise
+•	
+Where applicable, advising on the integration of gender aspects into the 
+terms of reference for appraisal missions, etc.
+•	
+Attending ZUK (approval of the draft strategy) and ZAK (approval of the 
+offer design) meetings within the pertinent department
+•	
+Identifying issues and putting these on the agenda
+(3) Implementation of the gender strategy throughout the company
+•	
+Representing the respective organisational unit within the gender coordi-
+nation group and attending meetings regularly
+•	
+Representing the respective organisational unit in consultation and coor-
+dination processes
+•	
+Supporting the GIZ Gender Commissioner in her/his monitoring work
+16
+GIZ Gender Strategy |
+IV	 Glossary
+Diversity, diversity 
+management
+Diversity considers the following aspects in particular: 
+gender, sexual orientation, ethnic and cultural background, 
+religion and beliefs, disability, and age. Diversity manage-
+ment as a tool of modern corporate management has the 
+objective of making constructive and gainful use of diver-
+sity within the workforce. Diversity management has also 
+taken on a compliance dimension with the enactment of a 
+range of anti-discrimination law, such as the German Gen-
+eral Act on Equal Treatment (AGG).
+Empowerment
+Empowerment means giving an individual power or trans-
+ferring responsibility to them. The term is often used in 
+the context of economic empowerment or women’s em-
+powerment. Empowerment includes strategies and meas-
+ures intended to increase the degree of autonomy and 
+self-determination that individuals and societies have over 
+their lives and to enable them to (re-)assert their inter-
+ests independently, responsibly and autonomously. In line 
+with the 1995 Beijing Declaration and Platform for Action, 
+the empowerment approach, among other things, particu-
+larly aims to use awareness-raising at all levels of soci-
+ety to strengthen women as legal entities and to broaden 
+their agency.
+Gender
+Gender refers to an individual’s social gender as opposed 
+to their sex, which is biologically determined. It includes 
+socially constructed gender roles and relationships, per-
+ceptions and expectations. These factors are contextual, 
+dynamic and open to change. They are reflected in such 
+areas as social standards, legislation, traditions, religion 
+and so on.
+Gender competence
+Gender competence includes the ability to reflect critically 
+on gender relationships and social gender attributions (e.g. 
+gender stereotypes) by using knowledge of how such attri-
+butions arise and their social impact. Gender competence 
+also includes the ability to use and apply this knowledge, 
+for example in project planning and implementation and in 
+the design of new approaches and strategies.
+17
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+Gender-sensitive design 
+of all procedures, gender-
+sensitive approach
+A gender-sensitive approach takes account of gender-spe-
+cific inequalities and gender discrimination and of the di-
+verse interests, needs and potentials of different genders 
+within a specific context. It recognises and identifies ex-
+isting gender-specific differences, problems and inequali-
+ties and integrates them into strategies and measures. The 
+objective is to ensure that no unintended negative impact 
+results from these strategies and measures and that in-
+dividuals are able to participate in and benefit from (de-
+velopment cooperation) measures irrespective of their 
+gender.
+Gender identity
+Gender identity is the gender with which an individual 
+identifies. Gender diversity is based on feelings of belong-
+ing to a particular gender and gender identity, for exam-
+ple as a woman, a man, transgender or intersex or other 
+local and indigenous self-identities, such as Hijra in India 
+and Pakistan. 
+Equal opportunities within 
+the company
+Equal opportunities within the company aim to secure 
+equality at work for women and men. Within GIZ, such 
+equality is based primarily on the company/staff council 
+agreement on gender equality and on the gender strategy. 
+Safeguards+Gender
+GIZ’s binding Safeguards+Gender Management System is 
+there to check and ensure that projects and programmes 
+systematically identify potential for promoting gender 
+equality and women’s rights as well as unintended neg-
+ative impacts or potential external risks with regard to 
+gender equality at an early stage, and actively address 
+them during the entire project cycle.
+SAFEGUARDS
++ GENDER
+18
+GIZ Gender Strategy |
+Sexual harassment
+Sexual harassment is a form of gender-based vio-
+lence encompassing acts of unwanted physical, verbal or 
+non-verbal conduct of a sexual nature, which have a pur-
+pose and/or effect of violating the victim’s dignity and 
+creating an intimidating, hostile, degrading, humiliating 
+or offensive environment. Individuals of any gender may 
+be both the perpetrator and the target of sexual harass-
+ment. The latter includes among others: unwanted physi-
+cal proximity; touching or assault of a sexual nature; ges-
+tures and other forms of non-verbal communication with 
+a sexual nature; sexually-oriented comments on individu-
+als and/or their body, behaviour, sex life or sexual identi-
+ty; sexually demeaning language and comments designed 
+to undermine dignity, such as jokes with sexual content; 
+requests to carry out sexual acts; sharing or displaying 
+pornographic or sexist images and stalking with a sexu-
+al basis. Sexual harassment is particularly severe when a 
+person’s hierarchical dependence is exploited in a train-
+ing context or at the workplace and when personal or 
+professional disadvantages are threatened or advantages 
+are promised. 
+Sexual orientation
+An individual’s sexual orientation is the gender to which 
+a person feels drawn emotionally, physically and/or sex-
+ually. Distinctions are made between lesbian, gay, heter-
+osexual, bisexual and asexual orientations. The abbrevia-
+tion LGBTIQ stands for lesbian, gay, bisexual, transgender, 
+intersex & queer. 
+Transformation of gender 
+relationships, gender-
+transformative approach
+Gender-transformative approaches aim to change gen-
+der-specific role attributions, unequal power relationships, 
+structures and social norms, and rules that lead to gen-
+der-specific disadvantages, discrimination and/or margin-
+alisation so as to achieve (greater) gender justice. A gen-
+der-transformative approach therefore not only focuses 
+on the manifestations and symptoms of gender inequali-
+ty (such as lack of access) but also tackles its root caus-
+es, such as sociocultural norms, discriminatory legal pro-
+visions and social systems.
+19
+| Gender reloaded: Vision needs Attitude – Attitude meets Action
+Wide-ranging understanding 
+of gender; gender diversity
+Gender diversity, gender inclusivity, an inclusive under-
+standing of gender, and a non-binary understanding of 
+gender all mean inclusion of all genders, not just male 
+and female. However, in most cases a binary understand-
+ing of gender (male and female) forms the basis for leg-
+islation and dominant social orders. Self-determination of 
+gender identity is a basic human right under internation-
+al law.
+Deutsche Gesellschaft für 
+Internationale Zusammenarbeit (GIZ) GmbH
+Registered offices
+Bonn and Eschborn, Germany
+Friedrich-Ebert-Allee 36 + 40
+53113 Bonn, Germany
+T	 +49 228 44 60-0
+F	 +49 228 44 60-17 66
+E	info@giz.de
+I	 www.giz.de
+Dag-Hammarskjöld-Weg 1 - 5
+65760 Eschborn, Germany
+T	 +49 61 96 79-0
+F	 +49 61 96 79-11 15
